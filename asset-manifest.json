@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/skillcard/static/css/main.6e0226ca.css",
-    "main.js": "/skillcard/static/js/main.e1931bf7.js",
+    "main.js": "/skillcard/static/js/main.f7d478b2.js",
     "index.html": "/skillcard/index.html",
     "main.6e0226ca.css.map": "/skillcard/static/css/main.6e0226ca.css.map",
-    "main.e1931bf7.js.map": "/skillcard/static/js/main.e1931bf7.js.map"
+    "main.f7d478b2.js.map": "/skillcard/static/js/main.f7d478b2.js.map"
   },
   "entrypoints": [
     "static/css/main.6e0226ca.css",
-    "static/js/main.e1931bf7.js"
+    "static/js/main.f7d478b2.js"
   ]
 }
